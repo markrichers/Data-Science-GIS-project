@@ -10,6 +10,8 @@ So, they need a suitable data technology to transform those Big-data set in high
 •	This data set contains information about every taxicab ride that happened in NYC.
 •	It owns the Open-API where we can download it and doing real-time analysis.
 
+I use Spark-Technology to transform a DataSet. 
+End-Product is visulization of Tableau Dataset. 
 
 ![ABC](https://user-images.githubusercontent.com/50198601/116881243-4e27dc00-ac23-11eb-8e71-0cd5e5bca5e0.png)
 
